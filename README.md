@@ -25,7 +25,7 @@ To run this project locally, follow these steps:
     cd littlelemon
     ```
 
-2. **Install Dependencies**:
+4. **Install Dependencies**:
 
     ```bash
     npm install
