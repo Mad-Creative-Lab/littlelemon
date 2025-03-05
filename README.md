@@ -22,6 +22,7 @@ To run this project locally, follow these steps:
 
     ```bash
     git clone https://github.com/Mad-Creative-Lab/littlelemon.git
+    cd littlelemon
     ```
 
 2. **Install Dependencies**:
