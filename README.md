@@ -21,8 +21,7 @@ To run this project locally, follow these steps:
 1. **Clone the Repository**:
 
     ```bash
-    git clone https://github.com/Lewis19K/capstone.git
-    cd capstone
+    git clone https://github.com/Mad-Creative-Lab/littlelemon.git
     ```
 
 2. **Install Dependencies**:
