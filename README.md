@@ -46,3 +46,8 @@ To run this project locally, follow these steps:
 - **Meta** and **Coursera** for providing the Front-End Development course.
 - The React community for their extensive documentation and support.
 - Little Lemon for inspiring this project.
+
+
+## Screenshot of my project : 
+![Capture d’écran 2025-03-05 à 12 10 15](https://github.com/user-attachments/assets/b8936de8-4daa-4033-8c67-cf7e1764980a)
+
